@@ -4,7 +4,7 @@
 ## - presiona: Ctrl + Enter
 
 ### Si quieres ver paso a paso qué hace cada parte del código dale una leída
-### las líneas comentadas
+### a las líneas comentadas
 
 
 
