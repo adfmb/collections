@@ -43,5 +43,7 @@ y<-as.data.frame(x)
 if(!"shiny"%in%y$Package){
   install.packages("shiny")
 }
+## Carga las funciones de la paquetería de Shiny
 library(shiny)
+## Lanza la App
 runApp(".")
